@@ -37,6 +37,6 @@ Veja os artigos publicados do LinkedIn
 * **Chesf: uma experiência de Home-Office pré-pandemia** https://www.linkedin.com/pulse/chesf-uma-experi%C3%AAncia-de-home-office-pr%C3%A9-pandemia-george-vasconcelos/
 ---
 ## Projetos:
-* **Análise do Air BNB - Copenhagen**
+* **Análise do Air BNB - Copenhagen** https://bityli.com/m6EZz
 
 
