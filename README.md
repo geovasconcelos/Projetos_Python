@@ -29,14 +29,14 @@ Basic knowledge in mandarin
 
 
 
-## Projetos:
+## Artigos:
 Veja os artigos publicados do LinkedIn
 
 * **Análise da relação de causalidade entre o índice de mortalidade da COVID-19 e os fatores sociais em Pernambuco.** https://www.linkedin.com/pulse/an%C3%A1lise-da-rela%C3%A7%C3%A3o-de-causalidade-entre-o-%C3%ADndice-e-os-vasconcelos/
 
 * **Chesf: uma experiência de Home-Office pré-pandemia** https://www.linkedin.com/pulse/chesf-uma-experi%C3%AAncia-de-home-office-pr%C3%A9-pandemia-george-vasconcelos/
 ---
-
-
+## Projetos:
+* **Análise do Air BNB - Copenhagen**
 
 
