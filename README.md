@@ -1,5 +1,3 @@
-# Hello-World
-Initial Repository
 <p align="center">
   <img src="banner.png" >
 </p>
