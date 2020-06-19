@@ -24,8 +24,7 @@ Basic knowledge in mandarin
 **Links:**
 * [Blog](http://)
 * [LinkedIn](https://www.linkedin.com/in/george-vasconcelos-5b922a8b)
-
-
+* [Medium](https://medium.com/@geovasconcelos)
 
 ## Artigos:
 Veja os artigos publicados do LinkedIn
@@ -38,4 +37,6 @@ Veja os artigos publicados do LinkedIn
 * **Análise do Air BNB - Copenhagen** https://bityli.com/m6EZz
 * **Análise dos dados da violência no RJ** https://bityli.com/41LSl
 
+## Artigos no Medium:
+* **Regressão linear simples com Statsmodels https://bit.ly/2NfMUxu
 
