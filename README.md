@@ -8,16 +8,18 @@
 I've been leading teams for over a decade at Eletrobras Chesf, one of the biggest company at energy segment.
 Combine deep knowlegde of business, with Python and analytical skills. 
 
-Graduations
-Business Administration (conclusion in 1998)
-MBA in Financial Management (conclusion in 2005)
-MBA in Management Models (conclusion in 2010)
-MBA in Business Management (conclusion in 2016)
-Specialization in Data Science (started in 2020, in progress)
+### Graduations:
 
-Advanced knowledge in english an spanish;
-Intermediate knowledge in french;
-Basic knowledge in mandarin
+* **Business Administration** (conclusion in 1998)
+* **MBA in Financial Management** (conclusion in 2005)
+* **MBA in Management Models** (conclusion in 2010)
+* **MBA in Business Management** (conclusion in 2016)
+* **Specialization in Data Science** (started in 2020, in progress)
+
+### Languades:
+* Advanced knowledge in english an spanish;
+* Intermediate knowledge in french;
+* Basic knowledge in mandarin
 
 **Background in:** Python, Machine Learning, Financial and people management.
 
