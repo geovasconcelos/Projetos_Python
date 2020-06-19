@@ -16,7 +16,7 @@ Combine deep knowlegde of business, with Python and analytical skills.
 * **MBA in Business Management** (conclusion in 2016)
 * **Specialization in Data Science** (started in 2020, in progress)
 
-### Languades:
+### Foreign Languages:
 * Advanced knowledge in english an spanish;
 * Intermediate knowledge in french;
 * Basic knowledge in mandarin
