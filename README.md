@@ -10,10 +10,10 @@ Combine deep knowlegde of business, with Python and analytical skills.
 
 ### Graduations:
 
-* **Business Administration** (conclusion in 1998)
-* **MBA in Financial Management** (conclusion in 2005)
-* **MBA in Management Models** (conclusion in 2010)
-* **MBA in Business Management** (conclusion in 2016)
+* **Business Administration** (concluded in 1998)
+* **MBA in Financial Management** (concluded in 2005)
+* **MBA in Management Models** (concluded in 2010)
+* **MBA in Business Management** (concluded in 2016)
 * **Specialization in Data Science** (started in 2020, in progress)
 
 ### Foreign Languages:
