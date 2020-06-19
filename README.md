@@ -38,5 +38,5 @@ Veja os artigos publicados do LinkedIn
 * **Análise dos dados da violência no RJ** https://bityli.com/41LSl
 
 ## Artigos no Medium:
-* **Regressão linear simples com Statsmodels https://bit.ly/2NfMUxu
+* **Regressão linear simples com Statsmodels** https://bit.ly/2NfMUxu
 
