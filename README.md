@@ -28,17 +28,17 @@ Combine deep knowlegde of business, with Python and analytical skills.
 * [LinkedIn](https://www.linkedin.com/in/george-vasconcelos-5b922a8b)
 * [Medium](https://medium.com/@geovasconcelos)
 
-## Artigos:
-Veja os artigos publicados do LinkedIn
+## Articles (in portuguese):
+*Articles published on LinkedIn*
 
 * **Análise da relação de causalidade entre o índice de mortalidade da COVID-19 e os fatores sociais em Pernambuco.** https://www.linkedin.com/pulse/an%C3%A1lise-da-rela%C3%A7%C3%A3o-de-causalidade-entre-o-%C3%ADndice-e-os-vasconcelos/
 
 * **Chesf: uma experiência de Home-Office pré-pandemia** https://www.linkedin.com/pulse/chesf-uma-experi%C3%AAncia-de-home-office-pr%C3%A9-pandemia-george-vasconcelos/
 ---
-## Projetos:
+*Articles published on Medium*
+
+* **Regressão linear simples com Statsmodels** https://bit.ly/2NfMUxu
+---
+## Projects on notebooks Python:
 * **Análise do Air BNB - Copenhagen** https://bityli.com/m6EZz
 * **Análise dos dados da violência no RJ** https://bityli.com/41LSl
-
-## Artigos no Medium:
-* **Regressão linear simples com Statsmodels** https://bit.ly/2NfMUxu
-
