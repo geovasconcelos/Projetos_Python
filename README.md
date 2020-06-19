@@ -36,5 +36,6 @@ Veja os artigos publicados do LinkedIn
 ---
 ## Projetos:
 * **Análise do Air BNB - Copenhagen** https://bityli.com/m6EZz
+* **Análise dos dados da violência no RJ** https://bityli.com/41LSl
 
 
