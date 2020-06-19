@@ -16,7 +16,7 @@ MBA in Business Management (conclusion in 2016)
 Specialization in Data Science (started in 2020, in progress)
 
 Advanced knowledge in english an spanish;
-Intermediate knowledge in french
+Intermediate knowledge in french;
 Basic knowledge in mandarin
 
 **Background in:** Python, Machine Learning, Financial and people management.
