@@ -38,7 +38,9 @@ Combine deep knowlegde of business, with Python and analytical skills.
 *Articles published on Medium*
 
 * **Regressão linear simples com Statsmodels** https://bit.ly/2NfMUxu
+* **Panorama da COVID no Brasil em 01-07-2020** https://bityli.com/FOuGE
 ---
 ## Projects on notebooks Python:
 * **Análise do Air BNB - Copenhagen** https://bityli.com/m6EZz
 * **Análise dos dados da violência no RJ** https://bityli.com/41LSl
+* **Panorama da COVID no Brasil em 01-07-2020** https://bityli.com/tL5nS
