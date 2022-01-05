@@ -14,7 +14,7 @@ Combine deep knowlegde of business, with Python and analytical skills.
 * **MBA in Financial Management** (concluded in 2005)
 * **MBA in Management Models** (concluded in 2010)
 * **MBA in Business Management** (concluded in 2016)
-* **Specialization in Data Science** (started in 2020, in progress)
+* **Specialization in Data Science** (concluded in 2021)
 
 ### Foreign Languages:
 * Advanced knowledge in english an spanish;
