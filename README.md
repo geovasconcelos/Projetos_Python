@@ -39,6 +39,7 @@ Combine deep knowlegde of business, with Python and analytical skills.
 
 * **Regressão linear simples com Statsmodels** https://bit.ly/2NfMUxu
 * **Panorama da COVID no Brasil em 01-07-2020** https://bityli.com/FOuGE
+* **Impulsione seus Investimentos: Aprenda a Utilizar Web Scraping em Python para Comparar Indicadores Financeiros http://bit.ly/3IGw607
 ---
 ## Projects on notebooks Python:
 * **Análise do Air BNB - Copenhagen** https://bityli.com/m6EZz
